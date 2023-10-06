@@ -1,7 +1,9 @@
 <h1 align="center"> Fokus </h1>
 
 <p align="center">
-JavaScript: Manipulando dados com DOM - Professor Luan Alves na plataforma da Alura
+JavaScript: Manipulando dados com DOM e Armazenando dados no navegador. <br><br> 
+
+Professores Luan Alves e João Vitor Pereira na plataforma da Alura - O design foi feito por Isadora Cardoso
 </p>
 
 <p align="center">
